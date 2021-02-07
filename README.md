@@ -1,5 +1,4 @@
 # ECI21: 
-[Machine Learning and Application to Physics Workshop '19](https://indico.fis.ucm.es/event/13/overview)
 
 This repository is meant to help ECI21 participants to set up a local work environment for the hands-on sessions of the course. However, it is **strongly recommended** to use Google Colaboratory instead. 
 
