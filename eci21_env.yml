@@ -1,0 +1,15 @@
+# eci21_env.yml
+name: eci21
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - tensorflow
+  - pandas
+  - jupyter
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pip
